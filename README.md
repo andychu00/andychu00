@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is my GitHub, and I will update my projects frequently!
 
 <!--
 **andychu00/andychu00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
